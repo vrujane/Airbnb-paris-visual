@@ -48,6 +48,8 @@ Which neighborhoods offer the most expensive/cheapest listings?
 | 4    | Buttes-Chaumont  | 5,387          | 189.86            |
 | 5    | Observatoire     | 3,603          | 202.41            |
 
+<img width="656" alt="task1" src="https://github.com/user-attachments/assets/d5d39ee7-ebae-4850-80ea-784d08a9ce0c" /><img width="661" alt="task1-2" src="https://github.com/user-attachments/assets/346b5897-5177-4115-bbbd-1f39c1d3222d" />
+
 
 ![alt text](task1.png)
 
