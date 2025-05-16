@@ -48,12 +48,10 @@ Which neighborhoods offer the most expensive/cheapest listings?
 | 4    | Buttes-Chaumont  | 5,387          | 189.86            |
 | 5    | Observatoire     | 3,603          | 202.41            |
 
-<img width="656" alt="task1" src="https://github.com/user-attachments/assets/d5d39ee7-ebae-4850-80ea-784d08a9ce0c" /><img width="661" alt="task1-2" src="https://github.com/user-attachments/assets/346b5897-5177-4115-bbbd-1f39c1d3222d" />
+<img width="656" alt="task1" src="https://github.com/user-attachments/assets/d5d39ee7-ebae-4850-80ea-784d08a9ce0c" />
+<img width="661" alt="task1-2" src="https://github.com/user-attachments/assets/346b5897-5177-4115-bbbd-1f39c1d3222d" />
 
 
-![alt text](task1.png)
-
-![alt text](task1-2.png)
 # Task 2: Histogram of Price Distribution
 **Description:**
 Build a histogram showing the distribution of prices per night. Use a logarithmic scale if there are outliers with extremely high prices in the data.
@@ -61,9 +59,9 @@ Build a histogram showing the distribution of prices per night. Use a logarithmi
 **What to analyze:**
 What price range occurs most frequently?
 Are there any outliers (extremely high or low prices)?
-Which neighborhoods offer more budget-friendly housing?
-
-![alt text](image.png)
+Which neighborhoods offer more budget
+-friendly housing?
+![image](https://github.com/user-attachments/assets/c215ba8a-73e6-44ec-a837-4ad042116d02)
 
 # Task 3: Review and Rating Analysis by Neighborhood
 **Description:**
@@ -94,7 +92,7 @@ Which neighborhoods might be attractive for rental based on reviews?
 | 15   | Gobelins          | 1.03              | 2,305       |
 
 
-![qw](image-1.png)
+![image-1](https://github.com/user-attachments/assets/c7caebb5-537a-4873-8bce-fa3aa7d84fe9)
 
 # Task 4: Correlation Between Price and Property Type
 **Description:**
@@ -104,12 +102,9 @@ Calculate the average price for each property type (e.g., "Private Room," "Entir
 Which property type is the most expensive/cheapest?
 Is there a price difference for the same property type in different neighborhoods?
 How does the property type affect popularity (e.g., by the number of reviews)?
-
-![rt](image-2.png)
-
-![alt text](image-3.png)
-
-![alt text](image-4.png)
+![image-2](https://github.com/user-attachments/assets/d581374f-73b0-44ea-a77f-5f4d92d99312)
+![image-3](https://github.com/user-attachments/assets/18a419b4-000a-4be5-9b77-f86788875f6a)
+![image-4](https://github.com/user-attachments/assets/ed843263-6a63-4898-ba8c-967ac1faad9c)
 
 # Task 5: Heatmap of Property Density
 **Description:**
@@ -137,10 +132,8 @@ Does proximity to popular tourist attractions affect property density?
 | 8    | Ménilmontant         | 5,183          | 160.13            |
 | 9    | Opéra                | 4,652          | 257.74            |
 | 10   | Reuilly              | 3,988          | 216.95            |
-
-![alt text](image-5.png)
-
-![alt text](task5.png)
+![image-5](https://github.com/user-attachments/assets/46145fc9-2375-4a3b-8d52-3808a9bd55ba)
+<img width="652" alt="task5" src="https://github.com/user-attachments/assets/2574d8aa-d9ed-4f3c-bb33-712adb19544a" />
 ## 🔍 Key Insights
 - Buttes-Montmartre has the highest number of listings (10,532) with relatively affordable prices (€178.99 avg)
 - Élysée district commands premium prices (€442.04 avg) despite fewer listings
